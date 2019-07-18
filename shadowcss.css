@@ -1,0 +1,13 @@
+*{color: whitesmoke}
+.bg{
+    background: url("bg1.jpg") no-repeat; width: 100%; height: 100vh;
+}
+p{
+    color: whitesmoke;
+}
+.form-container{
+    border:0px solid white; padding: 50px 60px; margin-top: 20vh;
+    -webkit-box-shadow: 0px 4px 16px 0px rgba(235,235,235,1);
+    -moz-box-shadow: 0px 4px 16px 0px rgba(235,235,235,1);
+    box-shadow: 0px 4px 16px 0px rgba(235,235,235,1);
+}
